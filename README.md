@@ -1,0 +1,2 @@
+# Currencies-Skript
+SimpleSkriptStore
